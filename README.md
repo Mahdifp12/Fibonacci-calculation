@@ -1,4 +1,4 @@
 ## This is repository for Fibonacci Calculation
 
 **Used**
-* i'm used the for recursive function
+* i'm used the recursive function
